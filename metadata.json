@@ -1,0 +1,6 @@
+{
+  "name": "EBAM Technical Monograph & Process Workbench",
+  "description": "Comprehensive engineering review, metallurgical compatibility matrix, process physics simulator, and industrial integration roadmap for Electron Beam Additive Manufacturing (EBAM / DED-EB).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
